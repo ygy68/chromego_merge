@@ -58,6 +58,8 @@ https://raw.githubusercontent.com/vveg26/chromego_merge/main/sub/neko_base64.txt
 
 
 ## 致谢
+本项目由 VTEXS 的「开源项目免费 VPS 计划」提供支持。
+感谢 VTEXS 对开源社区的支持！
 [Alvin9999](https://github.com/Alvin9999/pac2/tree/master)
 
 ## 其他订阅
